@@ -1,4 +1,5 @@
 import './sass/App.css';
+import React, { useState, useEffect } from "react";
 import { About } from './views/about/About';
 import { Career } from './views/career/Career';
 import { Footer } from './views/footer/Footer';

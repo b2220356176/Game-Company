@@ -7,7 +7,7 @@ export const Navbar = () => {
     <section className='navbar'>
         <div className='zozo-game-icon'>
             <img src={zozoIcon} alt='zozo Icon'/>
-            <h1>Zoozzo Games</h1>
+            <h1>Erik Games</h1>
         </div>
         <div className='menu-wrapper'>
             <a href='#home'>Home</a>

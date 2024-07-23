@@ -6,7 +6,7 @@ export const Title = () => {
     <section className='title-container'>
       <Fade duration={2000}>
         <h1>By Gamers, <span>For Gamers</span></h1>
-        <p>Creating the Very Best in Mobile Gaming</p>
+        <p>Creating the Very Best in Console & PC Gaming</p>
       </Fade>
     </section>
   )

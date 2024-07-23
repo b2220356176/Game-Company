@@ -9,7 +9,7 @@ export const Footer = () => {
         <section className='footer-container'>
             <div className='zozo-game-icon'>
                 <img src={zozoIcon} alt='zozo Icon' />
-                <h1>Zoozzo Games</h1>
+                <h1>Erik Games</h1>
             </div>
             <h1 className='h1'>Creating the Very Best in Mobile Gaming</h1>
             <Content/>

@@ -8,8 +8,8 @@ export const About = () => {
         <section className='about-container' id='about'>
             <Fade duration={2000} delay={200}>
                 <div className='about'>
-                    <h4>About Zozzo Games</h4>
-                    <h1>Creating Interactive Mobile Games Played Across the Globe</h1>
+                    <h4>About Erik Games</h4>
+                    <h1>Creating Console & PC Games Played Across the Globe</h1>
                     <button>Learn More</button>
                 </div>
             </Fade>
