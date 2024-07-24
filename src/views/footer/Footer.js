@@ -11,13 +11,12 @@ export const Footer = () => {
                 <img src={zozoIcon} alt='zozo Icon' />
                 <h1>Erik Games</h1>
             </div>
-            <h1 className='h1'>Creating the Very Best in Mobile Gaming</h1>
+            <h1 className='h1'>Creating the Very Best in Console & PC Gaming </h1>
             <Content/>
             <div className='download-btn'>
                 <img src={appStore} alt='app Store' />
                 <img src={googlePlay} alt='google Play' />
             </div>
-            <span>Developed by <b>Drik</b></span>
         </section>
     )
 }

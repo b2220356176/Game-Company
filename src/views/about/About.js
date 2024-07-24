@@ -16,7 +16,7 @@ export const About = () => {
             <Fade left big duration={2000} distance="30%" delay={200}>
                 <div className='form-container'>
                     <h2>Get in Touch</h2>
-                    <p>I'm a paragraph. Click here to add your own text and edit me.</p>
+                    <p>Feel free to contact us for any inquiries or questions you may have.</p>
                     <form id='contact'>
                         <label>Email *</label>
                         <input type='email' required readOnly />

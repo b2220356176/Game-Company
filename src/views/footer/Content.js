@@ -5,10 +5,8 @@ export const Content = () => {
         <section className='content'>
             <div className='personal'>
                 <h1>Contact</h1>
-                <p>arman.driik@gmail.com</p>
-                <p>drik.netlify.app</p>
-                <p>Tel : +98384851297</p>
-                <p>Iran - Gilan - Rasht</p>
+                <p>info@erikgames.com</p>
+                <p>Türkiye - Ankara</p>
             </div>
             <div className='sub'>
                 <h1>Subscribe for News and Updates</h1>
